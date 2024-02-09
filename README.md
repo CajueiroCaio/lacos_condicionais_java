@@ -10,33 +10,9 @@ Pessoas com idade entre 60 e 69 anos, só podem doar se não for a sua primeira 
 via teclado o nome do doador (String), a idade (inteiro) do doador e se é a primeira doação (boolean). De acordo com as Regras
 para a doação, é mostrado na tela se o doador está Apto ou Não Apto para doar sangue.
 
-4 - IF/ELSE: Um algoritmo em Java, que lê 3 palavras (String), que definem as características de um tipo de animal 
-possível segundo o diagrama abaixo, que deve ser lido da esquerda para a direita.
-
-                  ------ Carnívoro --- ÁGUIA
-                  |
-          -----Ave-
-          |       |
-Vertebrado-       -------- Onívoro --- POMBA
-          |
-          |            ---------- Onívoro --- HOMEM
-          |            |
-          -----Mamífero-
-                       |
-                       ---------- Herbívoro --- VACA
+4 - IF/ELSE: Um algoritmo em Java, que lê 3 palavras (String), que definem as características de um tipo de animal, caso acertar é dito qual animal tem essa característica.
 
 
-                  ------ Hematófago --- PULGA
-                  |
-          --Inseto-
-          |       |
-Invertebrado-       -------- Herbívoro --- LAGARTA
-          |
-          |            ---------- Hematófago --- SANGUESSUGA
-          |            |
-          -----Anelídeo-
-                       |
-                       ---------- Onívoro --- MINHOCA
 
 Nesses algoritmos são usados:
 - Entrada e Saída de dados;
